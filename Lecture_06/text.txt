@@ -1,0 +1,18 @@
+SEO and Core Web Vitals
+
+-> SEO stands for Seatch Engine Optimization
+   <title> is most important 
+   it hase to releted to your Web Data 
+
+-> Core Web Vitals are most imp thing 
+   this is for to increase the page performance 
+   
+   To check this go in page inspect and Go in LIGHTHOUSE and check the all performance 
+
+   like
+   1] Cumulative layout shift (CLS)
+   2] Largest Contentful Point (LCP)
+   3] First Input Delay (FID)
+   4] First Contentful Points (FCP)
+
+-> web.dev (best resource to learn all those concept)
