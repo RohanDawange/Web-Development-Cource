@@ -1,0 +1,32 @@
+Forms and input tags in HTML 
+
+-> Forms = <form action="post/get">
+           </form>
+        have 2 actions 
+        1. get
+        2. post
+
+-> Container
+    1] <div>This is a block container (div)</div>
+
+    2] <span>This is an inline container (span)</span>
+
+    3] <p>This is a paragraph</p>
+
+    4] <pre>Preserves formatting and spaces</pre>
+
+    5] <code>console.log("Code snippet")</code>
+    
+    6] <blockquote>A block quotation of text</blockquote>
+
+-->Forms
+   
+   learn lots of thing like --> application form
+                                1] Add lable
+                                2] Password input
+                                3] Place Holder
+                                4] Radio - male/female
+                                5] Check Box
+                                6] Comment Box
+                                7] Select tag - selscting values
+                                8]  
