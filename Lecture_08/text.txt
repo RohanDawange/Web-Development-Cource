@@ -1,4 +1,12 @@
 Lecture no :- 08 
 
--> Inline & Block Elements in HTML
+-> Inline & Block Elements in HTML (DISPLAY PROPERTY)
+
+-> Inline = jitni jarurat utni jagah
+
+-> Block = he tok te, te tok
+        tak's lot of jagah
+        hame to puri Width Chahiye
+
+
 
