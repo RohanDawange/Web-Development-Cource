@@ -15,3 +15,14 @@ footer{
     background-color: whitesmoke;
 }
 
+p{
+    background-color: aquamarine;
+}
+
+a{
+    background-color: rgb(161, 161, 219);
+}
+
+span{
+    background-color: bisque;
+}
