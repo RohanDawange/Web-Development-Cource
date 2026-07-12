@@ -1,0 +1,1 @@
+alert("lecture no 10")
