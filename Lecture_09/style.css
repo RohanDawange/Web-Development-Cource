@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(135, 30, 30);
+}
+
+.red{
+    background-color: blue;
+}
+
+.blue{
+    color: rgb(247, 255, 0);
+}
+
+#Janeman{
+    background-color: azure;
+    color: blueviolet;
+}
