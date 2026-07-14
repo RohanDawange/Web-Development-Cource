@@ -1,1 +1,11 @@
 This is an lecture no 11
+
+--> Segmentic tag - not fot Jaduu 
+                  - only for systematic code for content understanding 
+
+--> Why use systematic Tag ?
+    The enhance SEO improve accessiblity 
+    and make your code to read and maintain
+
+--> this is an image of difference bitween systematic and non systematic tags 
+
