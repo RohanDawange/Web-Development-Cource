@@ -1,0 +1,11 @@
+CLASS & ID - HTML
+
+both is an ATTRIBUTES not an element
+
+-> Class - Class is like a department not an unique ID
+         - have a multiple use [space]
+         - css target [.class_name]
+
+-> ID - ID is a unique identity it can't be a multiple
+      - unique id like (adhar number)
+      - Css Target [#ID_name]
